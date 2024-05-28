@@ -11,16 +11,12 @@ I've recently completed the Data Science Immersive at General Assembly Singapore
 
 ### Reach Out
 Feel free to reach out to me via these links for any inquiries or collaboration opportunities!
-- [Your Website](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
-
 <footer align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/si-min-suen">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;|&nbsp;
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:suensimin@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </footer>
