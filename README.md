@@ -2,7 +2,7 @@
 
 With over 15 years of diverse experience spanning research, teaching, administration, education, and business management, I have cultivated a broad and dynamic skill set. <br><br>
 My journey has been fueled by a relentless pursuit of knowledge, a passion for learning, and a commitment to constant self-improvement. <br>
-I've recently completed the Data Science Immersive at General Assembly Singapore. Armed with new tech skills, I endeavour to use them to empower others to lead better, more joyful lives.
+I have recently completed the Data Science Immersive at General Assembly Singapore. Armed with new tech skills, I endeavour to use them to empower others to lead better, more joyful lives.
 
 ### Certifications
 
