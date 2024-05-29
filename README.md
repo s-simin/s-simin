@@ -1,4 +1,11 @@
-## Welcome to Si Min's GitHub! 
+<div style="background-color: #a3d9ff; padding: 20px; text-align: center;">
+  <h2 style="color: white;">Welcome to Si Min's GitHub!</h2>
+</div>
+
+<!-- Banner with a solid background color -->
+<p align="center" style="background-color: #a3d9ff; padding: 20px;">
+  <span style="color: white; font-size: 24px; font-weight: bold;">Welcome to Si Min's GitHub!</span>
+</p>
 
 My journey has been fueled by a relentless pursuit of knowledge, a passion for learning, and a commitment to constant self-improvement. 
 <br><br>Recently, I completed the Data Science Immersive at General Assembly Singapore. Armed with new tech skills, I am excited to use them to empower others to lead better, more joyful lives.
