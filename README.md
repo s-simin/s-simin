@@ -1,11 +1,4 @@
-<div style="background-color: #a3d9ff; padding: 20px; text-align: center;">
-  <h2 style="color: white;">Welcome to Si Min's GitHub!</h2>
-</div>
-
-<!-- Banner with a solid background color -->
-<p align="center" style="background-color: #a3d9ff; padding: 20px;">
-  <span style="color: white; font-size: 24px; font-weight: bold;">Welcome to Si Min's GitHub!</span>
-</p>
+## Welcome to Si Min's GitHub!
 
 My journey has been fueled by a relentless pursuit of knowledge, a passion for learning, and a commitment to constant self-improvement. 
 <br><br>Recently, I completed the Data Science Immersive at General Assembly Singapore. Armed with new tech skills, I am excited to use them to empower others to lead better, more joyful lives.
@@ -22,7 +15,7 @@ Feel free to reach out to me via these links for any inquiries or collaboration 
   <a href="https://www.linkedin.com/in/si-min-suen">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:suensimin@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
   </a>
