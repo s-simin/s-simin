@@ -1,7 +1,7 @@
 ## Welcome to Si Min's GitHub!
 
 My journey has been fueled by a relentless pursuit of knowledge, a passion for learning, and a commitment to constant self-improvement. 
-<br><br>Recently, I completed the Data Science Immersive at General Assembly Singapore. Armed with new tech skills, I am excited to use them to empower others to lead better, more joyful lives.
+<br><br>After completing the Data Science Immersive at General Assembly Singapore, I'm happy to be using them to empower others to lead better, more joyful lives.
 <br><br>I invite you to explore my GitHub projects and hope you find them insightful and engaging!
 
 ### Certifications
